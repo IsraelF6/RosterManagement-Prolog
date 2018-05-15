@@ -12,6 +12,7 @@ grade (an integer). The menu for the management system has the following choices
 
 
 ===========================
+
 MENU
 ===========================
 0. Reset roster
