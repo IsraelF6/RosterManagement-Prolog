@@ -11,10 +11,9 @@ having three fields: the unique student ID (an integer), the student name (a str
 grade (an integer). The menu for the management system has the following choices:
 
 
-Class roster management system
-============================
+===========================
 MENU
-============================
+===========================
 0. Reset roster
 1. Load roster from file
 2. Store roster to file
