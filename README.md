@@ -12,9 +12,11 @@ grade (an integer). The menu for the management system has the following choices
 
 
 ===========================
+
 MENU
 
 ===========================
+
 0. Reset roster
 1. Load roster from file
 2. Store roster to file
