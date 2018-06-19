@@ -3,10 +3,9 @@
      (Prolog)
 ====================
 
+Made By: Israel Felhandler
 
-Objective
-To gain experience with logic programming in Prolog. 
-
+The objective of this project was to gain experience with logic programming in Prolog.
 This is program of a class roster management system that provides basic functions for 
 entering, removing, and displaying student information in a course roster using the 
 Prolog language. The course roster is stored as a table of student entries with each entry
@@ -15,7 +14,7 @@ grade (an integer). The menu for the management system has the following choices
 
 
 ===========================
-MENU
+ MENU
 ===========================
 
 0. Reset roster
